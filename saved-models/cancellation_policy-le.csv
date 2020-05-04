@@ -1,0 +1,7 @@
+cancellation_policy,temp
+strict_14_with_grace_period,3
+moderate,1
+flexible,0
+strict,2
+super_strict_60,5
+super_strict_30,4
